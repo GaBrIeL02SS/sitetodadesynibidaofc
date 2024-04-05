@@ -164,6 +164,12 @@ footer img{
     max-width: 50px;
 }
 
+footer a{
+    text-align: center;
+    margin: auto;
+    
+}
+
 .teste{
     height: 100px;
     width: 250px;
